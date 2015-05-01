@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\bin\Debug\SqlGiris.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\bin\Debug\SqlGiris.exe
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\bin\Debug\SqlGiris.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\obj\Debug\SqlCSharpConnect.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\obj\Debug\SqlGiris.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\obj\Debug\SqlGiris.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\obj\Debug\SqlCSharpConnect.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\obj\Debug\SqlGiris.exe
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\obj\Debug\SqlGiris.pdb

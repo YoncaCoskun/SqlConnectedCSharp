@@ -1,0 +1,1 @@
+c:\users\yonca\documents\visual studio 2013\Projects\SqlGiris\SqlGiris\bin\Debug\SqlGiris.exe.config
